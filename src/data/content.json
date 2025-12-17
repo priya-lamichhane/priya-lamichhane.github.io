@@ -1,0 +1,167 @@
+{
+  "personalInfo": {
+    "name": "Priya Lamichhane",
+    "title": "Nepalese | B.A.LLB | Corporate Lawyer & Open Knowledge Advocate",
+    "profileImage": "/src/assets/images/profile.jpg",
+    "phone": "Hidden for privacy",
+    "email": "priyalamichhane94@gmail.com",
+    "linkedin": "#",
+    "location": "Sinamangal-09, Kathmandu, Nepal",
+    "nationality": "Nepalese"
+  },
+  "workExperience": [
+    {
+      "title": "Project Coordinator",
+      "organization": "Open Knowledge Nepal",
+      "period": "Dec 2024 – Current",
+      "location": "Kathmandu, Nepal",
+      "responsibilities": [
+        "Coordinated workshops and training on open data literacy.",
+        "Managed partnerships with government, educational, and private sectors.",
+        "Led Public Bodies Datathons and Women In Data Conference initiatives.",
+        "Supported data governance frameworks and technical service delivery.",
+        "Facilitated data analysis and visualization capacity-building sessions."
+      ]
+    },
+    {
+      "title": "Legal Consultation",
+      "organization": "Worldlink Communication Ltd.",
+      "period": "Mar 2025 – Current",
+      "location": "Kathmandu, Nepal",
+      "responsibilities": [
+        "Drafted, reviewed, and negotiated SLAs, vendor contracts, MoUs.",
+        "Advised on regulatory compliance (net neutrality, cybersecurity, telecom laws).",
+        "Managed consumer complaints, copyright claims, and defamation cases.",
+        "Oversaw data handling, privacy policies, and user consent."
+      ]
+    },
+    {
+      "title": "Assistant Compliance Officer",
+      "organization": "Vision Energy & Power Ltd.",
+      "period": "Oct 2023 – Nov 2024",
+      "location": "Kathmandu, Nepal",
+      "responsibilities": [
+        "Ensured compliance with environmental, labor, and corporate governance laws.",
+        "Drafted and reviewed PPAs, O&M agreements, internal contracts.",
+        "Supervised corporate operations and project management guidelines."
+      ]
+    }
+  ],
+  "internships": [
+    {
+      "organization": "Ministry of Finance, Nepal Government",
+      "role": "Legal Intern",
+      "period": "Apr–Aug 2023"
+    },
+    {
+      "organization": "Unilever Nepal Limited",
+      "role": "Legal Intern",
+      "period": "Oct 2022–Jan 2023"
+    }
+  ],
+  "internshipTasks": "Tasks included legal research, drafting agreements, intellectual property review, and litigation support.",
+  "education": [
+    {
+      "degree": "B.A.LLB",
+      "institution": "Tribhuvan University",
+      "period": "2019–2024",
+      "gpa": "3.50"
+    },
+    {
+      "degree": "Intermediate (10+2), Management",
+      "institution": "St. Mary's High School",
+      "period": "2016–2018"
+    },
+    {
+      "degree": "School Leaving Certificate",
+      "institution": "AGM Secondary Boarding School"
+    }
+  ],
+  "additionalTraining": [
+    "CAYA Advocacy Fellowship",
+    "YAPA",
+    "UNICEF YPAT",
+    "Right to Information Training"
+  ],
+  "awards": [
+    "Millennium Fellowship Project – United Nations Academic Impact 2022",
+    "Young Ambassador of Peace in Asia (YAPA), 2025",
+    "Women in Data Conference Project Coordinator, 2025",
+    "Right to Information Activist – The Accountability Lab Nepal",
+    "Best Presenter, International Seminar on Research and Legal Research Trend, 2020"
+  ],
+  "publications": [
+    {
+      "title": "Wilderness of Women's Safety in Informal Employment",
+      "platform": "SSRN"
+    },
+    {
+      "title": "Introduction to Prison and Parole System of Nepal",
+      "platform": "ResearchGate"
+    },
+    {
+      "title": "Uprising trend of RTI with democratic Revolution",
+      "platform": "ResearchGate"
+    },
+    {
+      "title": "Impact of Transferred Malice in Nepalese Society",
+      "platform": "SSRN"
+    },
+    {
+      "title": "A Mentor to BALLB",
+      "platform": "Co-author of book"
+    },
+    {
+      "title": "Permanent Establishment Handbook",
+      "platform": "BLACC Journal, 2021"
+    }
+  ],
+  "teaching": [
+    {
+      "role": "Faculty Member",
+      "institution": "Capitol Hill College",
+      "period": "June 2024 – Present"
+    },
+    {
+      "role": "Exam Invigilator",
+      "institution": "British Council Nepal",
+      "period": "Mar 2021 – Mar 2023"
+    },
+    {
+      "role": "CSBT Trainer",
+      "institution": "V.S Niketan School",
+      "period": "May 2023 – Oct 2023"
+    },
+    {
+      "role": "Faculty Teacher, English",
+      "institution": "G4S Security Services Nepal",
+      "period": "Mar 2022 – Apr 2023"
+    }
+  ],
+  "skills": {
+    "technical": [
+      "Python",
+      "Microsoft Excel",
+      "PowerPoint",
+      "Word",
+      "QGIS (Basic)"
+    ],
+    "languages": [
+      {
+        "language": "Nepali",
+        "proficiency": "Native"
+      },
+      {
+        "language": "English",
+        "proficiency": "C1-C2"
+      }
+    ]
+  },
+  "contact": {
+    "formspreeEndpoint": "https://formspree.io/f/mdkqjayo"
+  },
+  "footer": {
+    "copyright": "© 2025 Priya Lamichhane | All Rights Reserved"
+  }
+}
+

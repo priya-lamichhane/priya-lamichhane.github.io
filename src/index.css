@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-50 text-gray-900;
+  }
+}
+
+@layer utilities {
+  .section-container {
+    @apply max-w-5xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+  
+  .section-spacing {
+    @apply py-12 sm:py-16;
+  }
+  
+  .section-title {
+    @apply text-3xl font-serif font-bold text-academic-navy mb-6 border-b-2 border-academic-blue pb-2;
+  }
+  
+  .card {
+    @apply bg-white rounded-lg shadow-md p-6 mb-6 hover:shadow-lg transition-shadow duration-300;
+  }
+}
+
+@media print {
+  body {
+    @apply bg-white;
+  }
+  
+  .no-print {
+    display: none !important;
+  }
+  
+  .card {
+    @apply shadow-none border border-gray-300;
+  }
+}
+
